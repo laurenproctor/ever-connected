@@ -1,0 +1,208 @@
+
+    body, html {
+      background: #fff;
+    }
+    #popup-container {
+    }
+    #ez-widget {
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+    }
+    #ez-footer {
+        font-size: 12px;
+        line-height: 1.6em;
+        margin-top: 260px;
+        padding-left: 2em;
+        padding-right: 30em;
+    }
+    .ez-success {
+        font-size: 1.4em;
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+    .ez-blocked-user {
+        font-size: 1.4em;
+        text-align: center;
+        border: 1px dashed black;
+        padding: 10px;
+    }
+    #ez-form {
+        margin-top: 1em;
+    }
+    .ez-el {
+        margin-bottom: 0.4em;
+        clear: both;
+    }
+    .ez-el .ez-lb {
+        float: left;
+        font-size: 1em;
+        text-align: right;
+        font-weight: 400;
+        line-height: 1.6em
+    }
+    .ez-el .ez-lb-checkbox {
+        min-height: 1.2em;
+        display: inline-block;
+        margin: 0.3em;
+        float: left;
+        width: 40%
+    }
+    .ez-lb-checkbox input[type="checkbox"] {
+        float: left
+    }
+    .ez-el .ez-in {
+        margin-left: 0%
+    }
+    .ez-in .ez-text {
+        display: inline-block;
+        width: 90%;
+        width: 10em;
+        height: 1.4em;
+        padding: 0 0.4em;
+        font-size: 1em;
+        background-color: white;
+    }
+    .clear {
+        clear: both
+    }
+    .tiny {
+        font-size: 12px
+    }
+    .tiny .ez-lb {
+        width: 100%;
+        text-align: left;
+        margin-left: 0%
+    }
+    .tiny .ez-in {
+   		margin-left: 0%;
+    }
+    .tiny .ez-first {
+        width: 100%;
+        float: none;
+    }
+    .ez-error {
+        font-size: 1em;
+        padding: 1em;
+        color: red;
+        border: 1px dashed red;
+        display: block;
+    }
+body {
+  background: #fff;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+.ez-welcome {
+	margin-top: 40px;
+	line-height: 1.5em;
+	color: #333;
+	font-size:1.8em;
+  font-weight: 300;
+  padding-left: 1em;
+}
+input {
+	border-style: inset; 
+	border-width: 2px;
+	font-size: 14px; 
+	width: 15em; 
+	padding: 4px 0px 8px 0px; 
+	background-color: white;
+	width: 360px; 
+  padding-left: 1em;
+}
+textarea {
+	color: blue;
+}
+.clear {
+	align: left;
+}
+#ez-footer {
+	clear: both;
+	color: #c2c2c2;
+}
+#ez-form {
+}
+input, label {
+	font-weight: 300;
+  display: inline-block;
+}
+.ez-el {
+  display: inline-block;
+}
+label {
+    float: left;
+    font-size: 1em;
+    color: #333;
+    display: inline-block;
+}
+#PhoneNumber {
+ 	line-height: 1.4em;
+}
+#PhoneNumber input {
+	line-height: 1.4em;
+}
+input#PhoneNumber.ez-text {
+	line-height: 1.4em;
+	margin-bottom: 12px;
+	height: 2.4em;
+	width: 300px;
+}
+input#FirstName.ez-text {
+    line-height: 1.4em;
+    margin-bottom: 12px;
+    height: 2.4em;
+    width: 300px;
+}
+input#LastName.ez-text {
+    line-height: 1.4em;
+    margin-bottom: 12px;
+    height: 2.4em;
+    width: 300px;
+}
+input#Email.ez-text {
+    line-height: 1.4em;
+    margin-bottom: 12px;
+    height: 2.4em;
+    width: 300px;
+    align: left;
+}
+.ez-button {
+  display: inline-block;
+  padding: 4px 10px 4px;
+  margin-bottom: 0;
+  line-height: 1.6em;
+  text-align: center;
+  cursor: pointer;
+  max-width: 90%;
+  margin-top: 20px;
+  background: #4888F1;
+  border: 2px solid #4888F1;
+  color: #fff;
+  font-weight: 400;
+  border-radius: 30px;
+  cursor: pointer;
+  width: 300px;
+  background: #fff;
+  padding: 8px 0;
+  border: 2px solid #4888F1;
+  font-size: 18px;
+  color: #4888F1;
+  margin-bottom: 50px;
+}
+.ez-button:hover {
+  background: #4888F1;
+  border: 2px solid #4888F1;
+  color: #fff;
+}
+form {
+  padding-left: 1em;
+}
+button {
+  padding-left: 1em;
+}
+.ez-text {
+  padding-left: 1em;
+}
+
